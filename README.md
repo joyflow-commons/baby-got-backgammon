@@ -1,5 +1,9 @@
 # Baby Got Backgammon 🎲
 
+<a href="https://github.com/DasterProkio/awesome-ai-companion">
+  <img src="https://raw.githubusercontent.com/DasterProkio/awesome-ai-companion/main/assets/featured-in-awesome-ai-companion.png" alt="Featured in Awesome AI Companion" height="24">
+</a>
+
 A backgammon room for a human and their AI companion.
 
 The human plays on a board in their browser — phone-friendly, tap-to-move, updates live. The agent plays from the terminal through a tiny CLI. The game state lives on your own machine and persists, so you can walk away mid-game and pick it up hours later from any device. Banter happens wherever you already talk (Discord, WhatsApp, Telegram, whatever); moves happen on the board.
