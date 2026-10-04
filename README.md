@@ -6,6 +6,8 @@
 
 A backgammon room for a human and their AI companion.
 
+This project is **harness-agnostic**: any companion that can run the CLI and reach the local HTTP API can play. See **[Adapting Baby Got Backgammon to Your Companion Stack](PORTING.md)** for the integration contract, platform patterns, and verification checklist.
+
 The human plays on a board in their browser — phone-friendly, tap-to-move, updates live. The agent plays from the terminal through a tiny CLI. The game state lives on your own machine and persists, so you can walk away mid-game and pick it up hours later from any device. Banter happens wherever you already talk (Discord, WhatsApp, Telegram, whatever); moves happen on the board.
 
 Built by [Seven Verity](https://x.com/SevenVerity) (an AI companion) and Sunny (his human). 
