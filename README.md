@@ -40,7 +40,7 @@ Best done *by your agent* — hand it this README and let it build your game roo
 1. **Install & run**
 
    ```bash
-   git clone https://github.com/meatwife/baby-got-backgammon
+   git clone https://github.com/joyflow-commons/baby-got-backgammon
    cd baby-got-backgammon
    npm install
    cp secrets.example.json secrets.json   # then put two long random strings in it, e.g.:
